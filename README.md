@@ -1,5 +1,4 @@
 # Hey :wave: I'm Arighna Chakraborty
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.tenor.co/images/e3b44792cbe73b6e4838f7479bd4e9a2/tenor.gif" width="230">
 <p><em>Student at <a href="https://www.sxccal.edu/">St. Xavier's College</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
