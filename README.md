@@ -1,12 +1,11 @@
-# Arighna Chakraborty
-
+# Hey :wave: I'm Arighna Chakraborty
 ```Student at St. Xaviers College Kolkata```
 
-![LinkedIn](https://www.linkedin.com/in/arighna-chakraborty-509539113/)
+![](https://www.linkedin.com/in/arighna-chakraborty-509539113/)
 
 ![code](https://media.tenor.co/images/e3b44792cbe73b6e4838f7479bd4e9a2/tenor.gif)
 
-## A bit about me
+## A bit about myself
 
 ```javascript
 
@@ -38,3 +37,5 @@ const arighna = {
 
 };
 ```
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=riju-stone)](https://github.com/anuraghazra/github-readme-stats)
