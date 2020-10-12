@@ -1,6 +1,6 @@
 # Hey :wave: I'm Arighna Chakraborty
-<img align='right' src="https://media.tenor.co/images/e3b44792cbe73b6e4838f7479bd4e9a2/tenor.gif" width="230">
-<p><em>Student at <a href="https://www.sxccal.edu/">St. Xavier's College</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img align='right' src="![code](https://media.tenor.co/images/cf3b94a19679c1b9e0f7ef25930ff2f0/tenor.gif)" width="150">
+<p><em>Student at <a href="https://www.sxccal.edu/">St. Xavier's College</a>
 </em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-arighna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arighna-chakraborty-509539113/)](https://www.linkedin.com/in/arighna-chakraborty-509539113/)
