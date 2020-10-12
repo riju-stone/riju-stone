@@ -8,11 +8,11 @@
 
 ## A bit about me
 
-```json
+```javascript
 
 const arighna = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Java", "C++", "C", "Flutter", "Bootstrap"],
+    code: ["Javascript", "Java", "C++", "C", "Python"],
     technologies: 
     {
         mobileApp: ["Flutter App"],
@@ -23,6 +23,7 @@ const arighna = {
         backEnd: 
         {
             js: ["node", "electron", "react"],
+            db: ["mysql", "oracledb"]
         },
         gameDev: ["unreal engine", "blender"],
         misc: ["photoshop", "illustrator"]
