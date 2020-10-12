@@ -33,12 +33,12 @@ const arighna = {
     profiles:
     {
         github: "/riju-stone",
-        youtube: "StOnE",
+        youtube: "/StOnE",
         twitter: "/RijuStone",
     }
 
 };
 ```
-<p><img align='right' src="https://media.tenor.co/images/2ca1892872320fb3e02e9190cbb86ba6/tenor.gif" width="250"></p>
+<p><img align='right' src="https://media.tenor.co/images/2ca1892872320fb3e02e9190cbb86ba6/tenor.gif" width="200"></p>
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=riju-stone)](https://github.com/anuraghazra/github-readme-stats)
