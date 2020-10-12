@@ -1,5 +1,5 @@
 # Hey :wave: I'm Arighna Chakraborty
-<img align='right' src="![code](https://media.tenor.co/images/cf3b94a19679c1b9e0f7ef25930ff2f0/tenor.gif)" width="150">
+<p><img align='right' src="https://media.tenor.co/images/cf3b94a19679c1b9e0f7ef25930ff2f0/tenor.gif" width="150"></p>
 <p><em>Student at <a href="https://www.sxccal.edu/">St. Xavier's College</a>
 </em></p>
 
@@ -39,5 +39,6 @@ const arighna = {
 
 };
 ```
+<p><img align='right' src="https://media.tenor.co/images/2ca1892872320fb3e02e9190cbb86ba6/tenor.gif" width="250"></p>
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=riju-stone)](https://github.com/anuraghazra/github-readme-stats)
