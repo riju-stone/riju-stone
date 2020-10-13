@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/riju-stone?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=riju-stone.riju-stone)
 
-## A bit about myself
+## A bit about myself <img src="https://media.tenor.co/images/e18c6dc1cb459dedbbcf26db862dd2ef/tenor.gif" width="35">
 
 ```javascript
 
