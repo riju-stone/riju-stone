@@ -35,6 +35,7 @@ const arighna = {
         github: "/riju-stone",
         youtube: "/StOnE",
         twitter: "/RijuStone",
+        artstation: "/rstone"
     }
 
 };
