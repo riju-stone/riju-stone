@@ -12,9 +12,8 @@
 ```javascript
 
 const arighna = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Java", "C++", "C", "Python"],
-    technologies: 
+    others: 
     {
         mobileApp: ["Flutter App"],
         frontEnd: 
@@ -23,7 +22,7 @@ const arighna = {
         },
         backEnd: 
         {
-            js: ["node", "electron", "react"],
+            js: ["node", "electron"],
             db: ["sql", "pl-sql"]
         },
         gameDev: ["unreal engine", "blender"],
