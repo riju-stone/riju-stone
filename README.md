@@ -24,7 +24,7 @@ const arighna = {
         backEnd: 
         {
             js: ["node", "electron", "react"],
-            db: ["mysql", "oracledb"]
+            db: ["sql", "pl-sql"]
         },
         gameDev: ["unreal engine", "blender"],
         misc: ["photoshop", "illustrator", "premier pro"]
