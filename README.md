@@ -12,21 +12,12 @@
 ```javascript
 
 const arighna = {
-    code: ["Javascript", "Java", "C++", "C", "Python"],
+    code: ["Javascript", "Java", "C++", "C", "Python", "HTML", "CSS", "SQL", "PL-SQL"],
     others: 
     {
-        mobileApp: ["Flutter App"],
-        frontEnd: 
-        {
-            css: ["bootstrap"]
-        },
-        backEnd: 
-        {
-            js: ["node", "electron"],
-            db: ["sql", "pl-sql"]
-        },
-        gameDev: ["unreal engine", "blender"],
-        misc: ["photoshop", "illustrator", "premier pro"]
+        frameworks: ["Flutter", "React JS", "Electron JS", "Bootstrap", "Tensorflow"],
+        gameDev: ["Unreal engine", "Blender", "Substance Painter"],
+        misc: ["Photoshop", "Illustrator", "Premier pro"]
     },
     otherInterests: ["Physics", "Drawing/Painting", "Gaming"],
     profiles:
