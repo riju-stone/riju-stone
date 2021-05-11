@@ -12,14 +12,15 @@
 ```javascript
 
 const arighna = {
-    code: ["Javascript", "Java", "C++", "C", "Python", "HTML", "CSS", "SQL", "PL-SQL"],
-    others: 
+    programming : [ "HTML", "CSS", "Javascript", "Java", "C++", "C", "Python"],
+    database : [ "SQL", "PL-SQL", "MongDB", "Firebase" ]
+    others:
     {
         frameworks: ["Flutter", "React JS", "Electron JS", "Tensorflow"],
-        gameDev: ["Unreal Engine", "Blender", "Substance Painter"],
+        gameDev: ["Blender"],
         misc: ["Photoshop", "Illustrator", "Premiere Pro"]
     },
-    otherInterests: ["Physics", "Drawing/Painting", "Gaming"],
+    otherInterests: ["Physics", "Photography", "Drawing/Painting", "Gaming"],
     profiles:
     {
         github: "/riju-stone",
