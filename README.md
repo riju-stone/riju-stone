@@ -12,8 +12,10 @@
 ```javascript
 
 const arighna = {
-    programming : [ "HTML", "CSS", "Javascript", "Java", "C++", "C", "Python"],
-    database : [ "SQL", "PL-SQL", "MongDB", "Firebase" ]
+    programming : ["Java", "C++", "C", "Python"],
+    frontend : [ "HTML", "CSS", "Javascript" ],
+    backend : [ "Node", "GraphQL" ],
+    database : [ "SQL", "PL-SQL", "MongDB", "Firebase"]
     others:
     {
         frameworks: ["Flutter", "React JS", "Electron JS", "Tensorflow"],
