@@ -12,13 +12,13 @@
 ```javascript
 
 const arighna = {
-    programming : ["Java", "C++", "C", "Python"],
-    frontend : [ "HTML", "CSS", "Javascript" ],
-    backend : [ "Node", "GraphQL" ],
-    database : [ "SQL", "PL-SQL", "MongDB", "Firebase"]
+    programming : ["Java", "C++", "Python"],
+    frontend : [ "HTML", "CSS", "Javascript"],
+    backend : [ "NodeJs", "GraphQL"],
+    database : [ "SQL", "PL-SQL", "MongDB"]
     others:
     {
-        frameworks: ["Flutter", "React JS", "Electron JS", "Tensorflow"],
+        frameworks: ["Flutter", "React JS", "Electron JS"],
         gameDev: ["Blender"],
         misc: ["Photoshop", "Illustrator", "Premiere Pro"]
     },
