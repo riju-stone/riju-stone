@@ -20,7 +20,7 @@ const arighna = {
     {
         frameworks: ["Flutter", "React JS", "Electron JS"],
         gameDev: ["Blender"],
-        misc: ["Photoshop", "Illustrator", "Premiere Pro"]
+        misc: ["Photoshop", "Illustrator", "Premiere Pro", "Adobe XD"]
     },
     otherInterests: ["Physics", "Photography", "Drawing/Painting", "Gaming"],
     profiles:
