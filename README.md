@@ -14,7 +14,7 @@
 const arighna = {
     programming : ["Java", "C++", "Python", "JavaScript"],
     frontend : ["React", "Vue"],
-    backend : [ "Node", "Express", "GraphQL"],
+    backend : [ "Node", "GraphQL", "Firebase"],
     database : ["SQL/PL-SQL", "MongDB"]
     others:
     {
