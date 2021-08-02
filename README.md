@@ -13,15 +13,14 @@
 
 const arighna = {
     programming : ["Java", "C++", "Python", "JavaScript"],
-    frontend : ["React", "Vue"],
-    backend : [ "Node", "GraphQL", "Firebase"],
-    database : ["SQL/PL-SQL", "MongDB"]
+    backend : [ "Node", "Express"],
+    database : ["SQL/PL-SQL", "MongDB", "Firebase"],
+    frameworks: ["Flutter", "Electron", "React"],
     others:
     {
-        frameworks: ["Flutter", "Electron"],
-        gameDev: ["Blender", "Unreal Engine"]
+        gameDev: ["Blender", "Unreal Engine"],
+        hobbies: ["Gaming", "Photography", "Art"],
     },
-    otherInterests: ["Gaming", "Photography", "Art"],
     profiles:
     {
         github: "/riju-stone",
