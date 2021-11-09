@@ -10,7 +10,7 @@
 const arighna = {
     programming : ["Java", "C++", "Python", "JavaScript"],
     backend : ["Node"],
-    database : ["SQL/PL-SQL", "MongDB"],
+    database : ["SQL/PL-SQL"],
     frameworks: ["Flutter", "Electron", "React"],
     ml: ["Tensorflow"],
     others:
