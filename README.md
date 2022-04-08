@@ -28,8 +28,4 @@ const arighna = {
 
 };
 ```
-<div>
-<a href="https://app.daily.dev/rijustone"><img src="https://api.daily.dev/devcards/b367ae5d343242a28fd8166ae7221c14.png?r=4wl" width="400" alt="Arighna Chakraborty's Dev Card"/></a>
-
 [![My github stats](https://github-readme-stats.vercel.app/api?username=riju-stone)](https://github.com/anuraghazra/github-readme-stats)
-</div>
