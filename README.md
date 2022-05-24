@@ -12,7 +12,7 @@ const arighna = {
     backend : ["Node", "Go"],
     database : ["SQL/PL-SQL"],
     frameworks: ["Flutter", "Electron", "React"],
-    ml: ["Tensorflow"],
+    ml: ["PyTorch"],
     others:
     {
         gameDev: ["Blender"],
