@@ -8,10 +8,12 @@
 ```javascript
 
 const arighna = {
-    programming : ["Java", "C++", "Python", "JavaScript"],
-    backend : ["Node", "Go"],
-    database : ["SQL/PL-SQL"],
-    frameworks: ["Flutter", "Electron", "React"],
+    programming : ["Java", "C++", "Python"],
+    frontend: ["React", "Next JS", "Redux", "Three JS", "Framer Motion"]
+    backend : ["Javascript"],
+    database : ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
+    mobile: ["Flutter"],
+    learning: ["Rust", "Go","Typescript", "CassandraDB", "HBase"],
     ml: ["PyTorch"],
     others:
     {
@@ -21,7 +23,6 @@ const arighna = {
     profiles:
     {
         github: "/riju-stone",
-        youtube: "/StOnE",
         twitter: "/RijuStone",
         artstation: "/rstone"
     }
