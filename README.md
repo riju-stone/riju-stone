@@ -10,7 +10,7 @@
 const arighna = {
     programming : ["C++", "Python", "Javascript"],
     frontend: ["React", "Tailwind", "Redux", "Three", "FramerMotion"],
-    backend : ["Javascript"],
+    backend : ["Javascript", "Go"],
     database : ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
     mobile: ["Reac Native"],
     learning: ["Go","Typescript", "CassandraDB"],
