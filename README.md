@@ -8,12 +8,12 @@
 ```javascript
 
 const arighna = {
-    programming : ["Java", "C++", "Python"],
-    frontend: ["React", "Next JS", "Redux", "Three JS", "Framer Motion"],
+    programming : ["C++", "Python", "Javascript"],
+    frontend: ["React", "Tailwind", "Redux", "Three", "FramerMotion"],
     backend : ["Javascript"],
     database : ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
-    mobile: ["Flutter"],
-    learning: ["Rust", "Go","Typescript", "CassandraDB", "HBase"],
+    mobile: ["Reac Native"],
+    learning: ["Go","Typescript", "CassandraDB"],
     ml: ["PyTorch"],
     others:
     {
