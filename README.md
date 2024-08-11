@@ -13,7 +13,7 @@ const arighna = {
     backend : ["Javascript", "Go"],
     database : ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
     mobile: ["React Native", "Flutter"],
-    learning: ["Go","Typescript", "CassandraDB"],
+    learning: ["Go", "Zig", "Rust", "Typescript"],
     ml: ["PyTorch"],
     others:
     {
