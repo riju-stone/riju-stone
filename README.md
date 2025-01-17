@@ -9,12 +9,11 @@
 
 const arighna = {
     programming : ["C++", "Python", "Javascript"],
-    frontend: ["React", "Tailwind", "Redux", "Three", "FramerMotion"],
-    backend : ["Javascript", "Go"],
-    database : ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
-    mobile: ["React Native", "Flutter"],
-    learning: ["Go", "Zig", "Rust", "Typescript"],
-    ml: ["PyTorch"],
+    frontend: ["React", "Tailwind", "Redux", "Three", "GSAP", "FramerMotion"],
+    backend : ["Node", "Express", "Go"],
+    database : ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
+    mobile: ["React Native"],
+    learning: ["Go", "Zig", "Typescript"],
     others:
     {
         gameDev: ["Blender"],
